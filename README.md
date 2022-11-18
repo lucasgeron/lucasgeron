@@ -1,5 +1,3 @@
-# [lucasgeron.github.io](https://lucasgeron.github.io)
-
 [![](https://visitcount.itsvg.in/api?id=lucasgeron&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeron&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
