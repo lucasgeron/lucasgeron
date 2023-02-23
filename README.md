@@ -3,10 +3,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=lucasgeron&icon=5&color=1)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeron&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeron&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasgeron&theme=default&hide_border=false)<br/>
-
+ 
 
 # 💻 Tech Stack:
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
